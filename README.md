@@ -8,3 +8,5 @@
 		* spring.h2.console.enabled=true
 	
 	3. to make sure defualt data insert you can data.sql in resource folder
+	4. To view the console run application http://localhost:8080/h2-console
+	
